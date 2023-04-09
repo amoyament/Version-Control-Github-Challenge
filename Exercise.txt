@@ -1,0 +1,3 @@
+1. The terminal is a text input and output environment. There you can navigate through all the files on your computer. In the terminal, files and folders can be created, deleted, opened, etc. Any and all files on a computer can be accessed through the terminal itself. Most simply, the terminal is the window where you enter commands for your computer to process.
+2. Git is a version control system that allows users manage and keep track of their code. However, GitHub is a hosting service that lets you manage your Git repositories. With GitHub the user can back up personal files, share code, and collaborate with other users.
+3. We use GitHub so we can keep track of collaborative coding projects as well as back up our personal projects on the cloud. 
